@@ -1,0 +1,13 @@
+{
+  "accuracy": 99.91,
+  "precision": 71.68,
+  "recall": 82.65,
+  "f1_score": 76.78,
+  "roc_auc": 97.90,
+  "confusion_matrix": {
+    "tn": 56832,
+    "fp": 32,
+    "fn": 17,
+    "tp": 81
+  }
+}
